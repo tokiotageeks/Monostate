@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoState", "MonoState\MonoState.csproj", "{898611C7-D208-4BDD-8DB8-5907BD4CAAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoState.Test", "MonoState.Test\MonoState.Test.csproj", "{A0AED837-8396-4EDB-9001-90131DF3501E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898611C7-D208-4BDD-8DB8-5907BD4CAAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898611C7-D208-4BDD-8DB8-5907BD4CAAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898611C7-D208-4BDD-8DB8-5907BD4CAAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898611C7-D208-4BDD-8DB8-5907BD4CAAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AED837-8396-4EDB-9001-90131DF3501E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AED837-8396-4EDB-9001-90131DF3501E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AED837-8396-4EDB-9001-90131DF3501E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AED837-8396-4EDB-9001-90131DF3501E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
